@@ -1,7 +1,7 @@
 NAME = "Atbash Cipher"
 CATEGORY = "Classical Cryptography"
 OPERATIONS = ["encrypt", "decrypt"]
-def transform(text}:
+def transform(text):
     result = ""
 
     for char in text:
